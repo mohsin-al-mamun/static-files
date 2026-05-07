@@ -52,6 +52,41 @@
         "title": "ভোলগা থেকে গঙ্গা",
         "img_url": "https://raw.githubusercontent.com/mohsin-al-mamun/static-files/main/assets/demo/volga-theke-gonga.webp",
         "author": "Mohsin"
+    },
+    {
+        "id": "10",
+        "title": "বাগানবিলাস",
+        "img_url": "https://raw.githubusercontent.com/mohsin-al-mamun/static-files/main/assets/demo/baganbilash1a.jpg",
+        "author": "Mohsin"
+    },
+    {
+        "id": "11",
+        "title": "বাগানবিলাস",
+        "img_url": "https://raw.githubusercontent.com/mohsin-al-mamun/static-files/main/assets/demo/baganbilash1b.jpg",
+        "author": "Mohsin"
+    },
+    {
+        "id": "12",
+        "title": "বাগানবিলাস",
+        "img_url": "https://raw.githubusercontent.com/mohsin-al-mamun/static-files/main/assets/demo/baganbilash2a.jpg",
+        "author": "Mohsin"
+    },
+    {
+        "id": "13",
+        "title": "বাগানবিলাস",
+        "img_url": "https://raw.githubusercontent.com/mohsin-al-mamun/static-files/main/assets/demo/baganbilash2b.jpg",
+        "author": "Mohsin"
+    },
+    {
+        "id": "14",
+        "title": "বাগানবিলাস",
+        "img_url": "https://raw.githubusercontent.com/mohsin-al-mamun/static-files/main/assets/demo/baganbilash2c.jpg",
+        "author": "Mohsin"
+    },
+    {
+        "id": "9",
+        "title": "বাগানবিলাস",
+        "img_url": "https://raw.githubusercontent.com/mohsin-al-mamun/static-files/main/assets/demo/baganbilash3a.jpg",
+        "author": "Mohsin"
     }
-    
 ]
